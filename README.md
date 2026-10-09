@@ -26,7 +26,7 @@ python agent.py
 
 Строка подключения берётся из `PG_DSN` (по умолчанию `postgresql://postgres:postgres@localhost:5432/metadata`).
 
-Ожидаемый вывод:
+Вывод (сокращённо):
 
 ```
 -> find_stale_datasets({})
